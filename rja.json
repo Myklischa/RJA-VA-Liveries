@@ -299,6 +299,13 @@
         "3575": {
             "name": "Boeing b787-9",
             "liveries": [
+                {
+                    "name": "Royal Japan Airlines",
+                    "texture": [
+                        "https://i.imgur.com/tC3XMsY.png"
+                    ],
+                    "credits": "Myklischa"
+                }
             ],
             "labels": [
                 "Texture"
