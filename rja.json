@@ -1,7 +1,7 @@
 {
-    "name": "Royal Japan Airlines",
-    "color": "BLUE",
-    "bgcolor": "GREY",
+    "name": "",
+    "color": "",
+    "bgcolor": "",
     "aircrafts": {
         "1": {
             "name": "Piper J3 Cub",
@@ -92,6 +92,14 @@
                     "texture": [
                         "/models/aircraft/premium/a380/specular.jpg",
                         "https://i.ibb.co/2n46wXb/image.png"
+                    ],
+                    "credits": "Myklischa"
+                },
+                {
+                    "name": "Royal Japan Airlines (Factory)",
+                    "texture": [
+                        "/models/aircraft/premium/a380/specular.jpg",
+                        "https://cdn.discordapp.com/attachments/1268207283633127424/1336253976097591339/RJA380FACTORY.png?ex=67b051fe&is=67af007e&hm=f7aee53e9987a785fe91369a01ec8c52f8f0592b4b38aaced545469a87531936&"
                     ],
                     "credits": "Myklischa"
                 }
@@ -443,6 +451,7 @@
             "liveries": [
             ],
             "labels": [
+                "Normal map",
                 "Specular shader",
                 "Texture"
             ]
@@ -483,6 +492,14 @@
                         "https://i.ibb.co/f9yt445/image.png"
                     ],
                     "credits" : "Lego and Avgeek YT"
+                },
+                {
+                    "name": "Royal Japan Airlines (spacial)",
+                    "texture": [
+                        "/models/aircraft/premium/a350/specular.jpg",
+                        "https://cdn.discordapp.com/attachments/1268207283633127424/1328381940579172404/a350-900201_5_15_3_3_9_4.jpg?ex=67b0af96&is=67af5e16&hm=0fe25d02847deada307872c0a6dd7fe2246584ffde6c9e150f1bbf964864538f&"
+                    ],
+                    "credits" : "Lego and Avgeek YT"
                 }
             ],
             "labels": [
@@ -501,6 +518,20 @@
         "4646": {
             "name": "Airbus a321neo",
             "liveries": [
+                {
+                    "name": "Royal Japan Airlines (XLR)",
+                    "texture": [
+                        "https://cdn.discordapp.com/attachments/1268207283633127424/1330988661118075000/tx1.png?ex=67b04809&is=67aef689&hm=dc1d9f28e49aedf27da201394aee5c128c8018726924f1f4fbc5758726c934c8&"
+                    ],
+                    "credits": "VR Pozz"
+                },
+                {
+                    "name": "Royal Japan Airlines (Wave)",
+                    "texture": [
+                        "https://cdn.discordapp.com/attachments/1268207283633127424/1330988755707891744/13131346.png?ex=67b0481f&is=67aef69f&hm=7ce77738ee1be7f63c94ba7dc752112a23d6b88a4f415806dc2d434e5bfe2474&"
+                    ],
+                    "credits": "VR Pozz"
+                }
             ],
             "labels": [
                 "Texture"
@@ -562,6 +593,14 @@
                     "texture": [
                         "/models/aircraft/premium/777_300/specular_0.jpg",
                         "https://i.ibb.co/8cFP6nL/image.png"
+                    ],
+                    "credits": "VR PoZz"
+                },
+                {
+                    "name": "Royal Japan Airlines (Wave Livery)",
+                    "texture": [
+                        "/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://cdn.discordapp.com/attachments/1268207283633127424/1330605977548095538/Royal_Japan_Airlines_777.png?ex=67b03522&is=67aee3a2&hm=fbc690df58d0fe1f3e7b4f1c81dd6f110d2e7d36d43f8f4117dc0e7896ae8b60&"
                     ],
                     "credits": "VR PoZz"
                 }
@@ -723,14 +762,41 @@
                     "name": "Royal Japan Airlines",
                     "texture": [
                         "https://i.ibb.co/R2v5tk4/image.png"
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/wing/original.png"
                     ],
                     "credits": "Myklischa"
                 }
             ],
             "labels": [
-                "Texture"
+                "Texture",
+                "Wing texture"
             ]
             
+        },
+        "2857": {
+            "name": "Lokheed Martin F22 Raptor",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture",
+                "Metallic Roughness shader"
+            ]
+        },
+        "3211": {
+            "name": "UTVA 75",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "2808": {
+            "name": "Supermarine Spitfire Mk XIV",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
         }
     }
 }
