@@ -1,7 +1,7 @@
 {
-    "name": "",
-    "color": "",
-    "bgcolor": "",
+    "name": "Royal Japan Airlines",
+    "color": "black",
+    "bgcolor": "blue",
     "aircrafts": {
         "1": {
             "name": "Piper J3 Cub",
