@@ -748,6 +748,13 @@
         "5038": {
             "name": "Lokheed L1011-1 TriStar",
             "liveries": [
+                {
+                    "name": "Royal Japan Airlines",
+                    "texture": [
+                        "https://i.imgur.com/He8f8h9.jpeg"
+                    ],
+                    "credits": "Myklischa"
+                }
             ],
             "labels": [
                 "Texture",
