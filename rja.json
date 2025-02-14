@@ -761,7 +761,7 @@
                 {
                     "name": "Royal Japan Airlines",
                     "texture": [
-                        "https://i.ibb.co/R2v5tk4/image.png"
+                        "https://i.ibb.co/R2v5tk4/image.png",
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/wing/original.png"
                     ],
                     "credits": "Myklischa"
@@ -771,7 +771,6 @@
                 "Texture",
                 "Wing texture"
             ]
-            
         },
         "2857": {
             "name": "Lokheed Martin F22 Raptor",
