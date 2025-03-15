@@ -295,7 +295,7 @@
                 {
                     "name": "Royal Japan Airlines",
                     "texture": [
-                        "https://i.ibb.co/1vg1Swh/image.png"
+                        "https://i.imgur.com/tYj2r5z.jpeg"
                     ],
                     "credits": "Myklischa"
                 }
@@ -494,7 +494,15 @@
                     "credits" : "Lego and Avgeek YT"
                 },
                 {
-                    "name": "Royal Japan Airlines (spacial)",
+                    "name": "Royal Japan Airlines(Wave)",
+                    "texture": [
+                        "/models/aircraft/premium/a350/specular.jpg",
+                        "https://i.imgur.com/XKnAcVd.jpeg"
+                    ],
+                    "credits" : "Lego and Avgeek YT"
+                },
+                {
+                    "name": "Royal Japan Airlines (simplified Logo)",
                     "texture": [
                         "/models/aircraft/premium/a350/specular.jpg",
                         "https://i.imgur.com/Q1xmpjv.jpeg"
@@ -593,6 +601,14 @@
                     "texture": [
                         "/models/aircraft/premium/777_300/specular_0.jpg",
                         "https://i.ibb.co/8cFP6nL/image.png"
+                    ],
+                    "credits": "VR PoZz"
+                },
+                {
+                    "name": "Royal Japan Airlines (2025 SUSUKA grand prix F1)",
+                    "texture": [
+                        "/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://i.imgur.com/sS4dWnT.jpeg"
                     ],
                     "credits": "VR PoZz"
                 },
@@ -769,6 +785,14 @@
                     "name": "Royal Japan Airlines",
                     "texture": [
                         "https://i.ibb.co/R2v5tk4/image.png",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/wing/original.png"
+                    ],
+                    "credits": "Myklischa"
+                },
+                {
+                    "name": "Royal Japan Aircargo",
+                    "texture": [
+                        "https://i.imgur.com/hSHZSaH.png",
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/wing/original.png"
                     ],
                     "credits": "Myklischa"
