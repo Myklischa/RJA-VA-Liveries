@@ -34,6 +34,7 @@
                 {
                     "name": "Royal Japan Airlines",
                     "texture": [
+                        "/models/aircraft/premium/737_700/normal.jpg",
                         "/models/aircraft/premium/737_700/specular.jpg",
                         "https://i.ibb.co/479L7jq/image.png"
                     ],
@@ -284,6 +285,12 @@
         "2418": {
             "name": "ATR 72-600",
             "liveries": [
+                {
+                    "name": "Myke Air",
+                    "texture": ["https://i.imgur.com/1r5xMYt.png"
+                    ],
+                    "credits": "Myklischa"
+                }
             ],
             "labels": [
                 "Texture"
@@ -785,6 +792,14 @@
                     "name": "Royal Japan Airlines",
                     "texture": [
                         "https://i.ibb.co/R2v5tk4/image.png",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/wing/original.png"
+                    ],
+                    "credits": "Myklischa"
+                },
+                {
+                    "name": "Royal Japan Airlines Cerry",
+                    "texture": [
+                        "https://i.imgur.com/MZT4Ehn.png",
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/wing/original.png"
                     ],
                     "credits": "Myklischa"
