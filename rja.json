@@ -83,6 +83,7 @@
                 {
                     "name": "Royal Japan Airlines (old logo)",
                     "texture": [
+                        "/models/aircraft/premium/a380/normal.jpg",
                         "/models/aircraft/premium/a380/specular.jpg",
                         "https://i.ibb.co/Z6GvhsV/image.png"
                     ],
@@ -91,6 +92,7 @@
                 {
                     "name": "Royal Japan Airlines (new logo)",
                     "texture": [
+                        "/models/aircraft/premium/a380/normal.jpg",
                         "/models/aircraft/premium/a380/specular.jpg",
                         "https://i.ibb.co/2n46wXb/image.png"
                     ],
@@ -99,6 +101,7 @@
                 {
                     "name": "Royal Japan Airlines (Factory)",
                     "texture": [
+                        "/models/aircraft/premium/a380/normal.jpg",
                         "/models/aircraft/premium/a380/specular.jpg",
                         "https://i.imgur.com/JytmRJa.jpeg"
                     ],
