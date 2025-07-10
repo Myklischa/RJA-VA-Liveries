@@ -39,6 +39,15 @@
                         "https://i.ibb.co/479L7jq/image.png"
                     ],
                     "credits": "Myklischa"
+                },
+                {
+                    "name": "Royal Japan Airlines (Wave Livery)",
+                    "texture": [
+                        "/models/aircraft/premium/737_700/normal.jpg",
+                        "/models/aircraft/premium/737_700/specular.jpg",
+                        "https://i.imgur.com/bWKIGEn.jpeg"
+                    ],
+                    "credits": "VR Pozz"
                 }
             ],
             "labels": [
@@ -323,6 +332,20 @@
                         "https://i.imgur.com/tC3XMsY.png"
                     ],
                     "credits": "Myklischa"
+                },
+                {
+                    "name": "Royal Japan Airlines (Wave)",
+                    "texture": [
+                        "https://i.imgur.com/OvZ21aP.png"
+                    ],
+                    "credits": "Luca B"
+                },
+                {
+                    "name": "Royal Japan Airlines (Impreial Horizons)",
+                    "texture": [
+                        "https://i.imgur.com/60pa6fA.png"
+                    ],
+                    "credits": "VR Pozz"
                 }
             ],
             "labels": [
@@ -518,6 +541,14 @@
                         "https://i.imgur.com/Q1xmpjv.jpeg"
                     ],
                     "credits" : "Lego and Avgeek YT"
+                },
+                {
+                    "name": "Royal Japan Airlines (Pride Livery)",
+                    "texture": [
+                        "/models/aircraft/premium/a350/specular.jpg",
+                        "https://i.imgur.com/N6gtXdW.jpeg"
+                    ],
+                    "credits" : "The Dutch Guy"
                 }
             ],
             "labels": [
@@ -528,6 +559,13 @@
         "4631": {
             "name": "Airbus a330-900neo",
             "liveries": [
+                {
+                    "name": "Royal Japan Airlines",
+                    "texture": [
+                        "https://i.imgur.com/Jfyyejc.png"
+                    ],
+                    "credits": "Burnin Hell"
+                }
             ],
             "labels": [
                 "Texture"
@@ -549,6 +587,13 @@
                         "https://i.imgur.com/Fjbbt2T.png"
                     ],
                     "credits": "VR Pozz"
+                },
+                {
+                    "name": "Royal Japan Airlines (Pride Livery)",
+                    "texture": [
+                        "https://i.imgur.com/Do8g0pz.png"
+                    ],
+                    "credits": "The Dutch Guy"
                 }
             ],
             "labels": [
@@ -591,14 +636,6 @@
                     "credits": "Myklischa"
                 },
                 {
-                    "name": "Royal Japan Aircargo",
-                    "texture": [
-                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/speculars/ersf.png",
-                        "https://i.ibb.co/dB2XFCp/image.png"
-                    ],
-                    "credits": "Myklischa"
-                },
-                {
                     "name": "Royal Japan Airlines (Protect our oceans livery)",
                     "texture": [
                         "/models/aircraft/premium/777_300/specular_0.jpg",
@@ -629,6 +666,38 @@
                         "https://i.imgur.com/VdzZ5DD.jpeg"
                     ],
                     "credits": "VR PoZz"
+                },
+                {
+                    "name": "Royal Japan Airlines (Pride Livery)",
+                    "texture": [
+                        "/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://i.imgur.com/duyNKx3.jpeg"
+                    ],
+                    "credits": "The Dutch Guy"
+                },
+                {
+                    "name": "Royal Japan Airlines (Xmas Livery)",
+                    "texture": [
+                        "/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://i.imgur.com/Tbaq823.jpeg"
+                    ],
+                    "credits": "J.Z"
+                },
+                {
+                    "name": "Royal Japan Aircargo",
+                    "texture": [
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/speculars/ersf.png",
+                        "https://i.ibb.co/dB2XFCp/image.png"
+                    ],
+                    "credits": "Myklischa"
+                },
+                {
+                    "name": "Royal Japan Aircargo (F1)",
+                    "texture": [
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/speculars/ersf.png",
+                        "https://i.imgur.com/2wAniMP.jpeg"
+                    ],
+                    "credits": "Sunrise 6 and VR Pozz"
                 }
             ],
             "labels": [
