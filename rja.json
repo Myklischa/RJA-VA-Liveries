@@ -546,7 +546,7 @@
                     "name": "Royal Japan Airlines (Pride Livery)",
                     "texture": [
                         "/models/aircraft/premium/a350/specular.jpg",
-                        "https://imgur.com/ykkQfN6"
+                        "https://imgur.com/1w8Lz0M"
                     ],
                     "credits" : "The Dutch Guy"
                 }
@@ -679,7 +679,7 @@
                     "name": "Royal Japan Airlines (Xmas Livery)",
                     "texture": [
                         "/models/aircraft/premium/777_300/specular_0.jpg",
-                        "https://imgur.com/IDcivya"
+                        "https://imgur.com/eLJBmHR"
                     ],
                     "credits": "J.Z"
                 },
@@ -933,5 +933,6 @@
         }
     }
 }
+
 
 
