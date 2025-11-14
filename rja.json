@@ -180,6 +180,12 @@
         "20": {
             "name": "Aerospatiale France - British Aircraft Corporation Concorde",
             "liveries": [
+                {
+                    "name": "RJA",
+                    "texture": ["https://i.imgur.com/qSU4xUZ.png"
+                    ],
+                    "credits": "Myklischa"
+                }
             ],
             "labels": [
                 "Texture"
@@ -546,7 +552,7 @@
                     "name": "Royal Japan Airlines (Pride Livery)",
                     "texture": [
                         "/models/aircraft/premium/a350/specular.jpg",
-                        "https://imgur.com/1w8Lz0M"
+                        "https://i.imgur.com/eLJBmHR.jpeg"
                     ],
                     "credits" : "The Dutch Guy"
                 }
@@ -679,7 +685,7 @@
                     "name": "Royal Japan Airlines (Xmas Livery)",
                     "texture": [
                         "/models/aircraft/premium/777_300/specular_0.jpg",
-                        "https://imgur.com/eLJBmHR"
+                        "https://i.imgur.com/eLJBmHR.jpeg"
                     ],
                     "credits": "J.Z"
                 },
@@ -933,6 +939,7 @@
         }
     }
 }
+
 
 
 
